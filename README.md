@@ -29,10 +29,7 @@ Right(1) and Left(0).
 Right= 1,Left= 0
 
 ### Graphical Representation
-
-![WhatsApp Image 2024-02-23 at 09 41 04_3a10ebf9](https://github.com/Naveen22009215/mdp-representation/assets/119401470/bcf2e24b-b3c6-4108-8f95-ffd7830c5005)
-
-
+![image](https://github.com/Pravinrajj/mdp-representation/assets/117917674/079130a7-5224-43c2-ac43-d4097ec4abf5)
 
 ## PYTHON REPRESENTATION:
 ```
