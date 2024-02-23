@@ -53,7 +53,7 @@ mdp = {
 ```
 
 ## OUTPUT:
-![image](https://github.com/Naveen22009215/mdp-representation/assets/119401470/4d6cc091-559e-4cbd-8210-f217ed484f85)
+![image](https://github.com/Pravinrajj/mdp-representation/assets/117917674/3ac01c43-884f-4983-930b-3dd61915729d)
 
 
 ## RESULT:
