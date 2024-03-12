@@ -21,6 +21,7 @@ The action space consists of all the possible actions that the agent can take in
 
 ## Sample Action
 ![1](https://github.com/Pravinrajj/mdp-representation/assets/117917674/0d9c417d-fa41-49cd-8830-4d47ce247f9d)
+
 In simpler terms, imagine the Tic-Tac-Toe game board with Xs and Os placed in certain spots. When it's the AI's turn, it decides to put its X in the bottom-right corner because it thinks it's the best move. This action changes the game board, and now there's an X in that corner. This action shows how the AI plays the game by picking where to place its X based on what's already on the board. This process keeps going until the game is won or ends in a tie, and the AI learns from each action to get better at playing.
 
 ## Reward Function
